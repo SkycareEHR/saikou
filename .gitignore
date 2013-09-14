@@ -1,14 +1,22 @@
 lib-cov
 *.seed
 *.log
-*.csv
 *.dat
 *.out
 *.pid
-*.gz
+*.swp
 
 pids
 logs
-results
+tmp
 
 npm-debug.log
+node_modules
+
+.idea
+thumbs.db
+.DS_Store
+*.DS_Store
+*~
+*.lock
+nbproject
