@@ -19,4 +19,4 @@ thumbs.db
 *.DS_Store
 *~
 *.lock
-nbproject
+nbproject/
